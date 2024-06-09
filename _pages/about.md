@@ -9,8 +9,7 @@ profile:
   image: my_img_web.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Physics and Astronomy,
-   Rutgers University,</p>
+    <p>Department of Physics and Astronomy, Rutgers University,</p>
     <p>Piscataway, NJ 08854</p>
 
 news: false # includes a list of news items
