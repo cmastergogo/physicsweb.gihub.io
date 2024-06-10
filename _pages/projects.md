@@ -2,11 +2,11 @@
 layout: page
 permalink: /projects/
 title: projects
-description: Here is a brief description of the projects I have worked on.
+description: Here is a brief description of the projects that I have worked on.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Lattice Realization of Topological Defects in 2D CFT 
 
-Organize your courses by years, topics, or universities, however you like!
+My collaborators in this project include Ananda Roy, Fei Yan, Hubert Saleur, Linnea Grans-Samuelsson and Thiago Silva Tavares. 
