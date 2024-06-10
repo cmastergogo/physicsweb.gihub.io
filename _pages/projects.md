@@ -11,6 +11,6 @@ nav_order: 6
 
 My collaborators in this project include Ananda Roy, Fei Yan, Hubert Saleur, Linnea Grans-Samuelsson and Thiago Silva Tavares. 
 
-<h1>{{ Vertex Operator Algebras and Modular Tensor Catrgories for Narain CFTs   }}</h1>
+<h1>{ Vertex Operator Algebras and Modular Tensor Catrgories for Narain CFTs }</h1>
 
 My collaborators in this project are Ranveer Kumar Singh and Runkai Tao.
