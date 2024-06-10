@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects
-description: Here is a brief description of the projects I have worked on along with my collaborators.
+description: Here is a brief description of the projects I have worked on.
 nav: true
 nav_order: 6
 ---
